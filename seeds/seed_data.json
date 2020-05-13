@@ -2,16 +2,12 @@
    "poll": "Favourite Linux distribution",
    "question": "What is your favourite Linux distribution?",
    "options": [
-	"Mint",
-	"Fedora",
 	"Debian",
 	"Ubuntu",
 	"Centos",
 	"Slackware",
 	"Alpine",
 	"Arch",
-	"kali",
-	"backtrack",
 	"Other"
    ]
 }
